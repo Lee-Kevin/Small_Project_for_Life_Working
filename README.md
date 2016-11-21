@@ -5,5 +5,10 @@
 This project is based on Linkit Smart 7688 Duo, Then run a python script from Arduino side and read the result. Acccording to the result light up different color LED Strip. 
 > This project will checkout if somebody's K3 Cloud account is online, if so, the LED Stripe will turn into red.
 
+## 20161114
 
-to be continued
+This is a python script that can turn a picture to a ascii text.
+
+## 20161121
+
+This is a project that can indicate if the door is open.
