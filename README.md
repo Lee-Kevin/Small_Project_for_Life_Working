@@ -12,3 +12,8 @@ This is a python script that can turn a picture to a ascii text.
 ## 20161121
 
 This is a project that can indicate if the door is open.
+
+## 20161122
+
+This is a FFT demo based on Arduino FHT library
+
