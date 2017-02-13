@@ -15,5 +15,8 @@ This is a project that can indicate if the door is open.
 
 ## 20161122
 
-This is a FFT demo based on Arduino FHT library
+This is a FFT demo based on Arduino FHT library.
 
+## 20170213
+
+This is a project based on python to deal with json file, and change some special values.

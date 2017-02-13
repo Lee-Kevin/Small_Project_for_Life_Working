@@ -1,0 +1,79 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Introduction\n\uf0c1\n\n\nWelcome to Seeed Wiki. Here, you will find user manuals and tutorials for \nSeeedStudio\ns\n products. This new website is constantly updated with contents from old \nwiki site\n. \n\n\nThe product documents are organized as:\n\n\n\n\nPlatform\n\n\nArduino\n\n\nBeagleBone\n\n\nRaspberry Pi\n\n\nLinkIt\n\n\nmbed\n\n\nRePhone\n\n\nWio\n\n\n\n\n\n\nGrove\n\n\nSensor\n\n\nActuator\n\n\nDisplay\n\n\nCommunication\n\n\nOthers\n\n\n\n\n\n\nIoT\n\n\nTutorial\n\n\nMakerPro\n\n\nAbout", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#introduction", 
+            "text": "Welcome to Seeed Wiki. Here, you will find user manuals and tutorials for  SeeedStudio s  products. This new website is constantly updated with contents from old  wiki site .   The product documents are organized as:   Platform  Arduino  BeagleBone  Raspberry Pi  LinkIt  mbed  RePhone  Wio    Grove  Sensor  Actuator  Display  Communication  Others    IoT  Tutorial  MakerPro  About", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/Platform/", 
+            "text": "Products are grouped into the following platforms:\n\n\n\n\nArduino\n\n\nBeagleBone\n\n\nRaspberry Pi\n\n\nLinkIt\n\n\nmbed\n\n\nRePhone\n\n\nWio", 
+            "title": "Platform Introduction"
+        }, 
+        {
+            "location": "/Arduino/", 
+            "text": "Arduino is an open-source prototyping platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. It is like the brain of a project.\n\n\nBecause it is so flexible and open source, Arduino is the best solution if you are interested in creating interactive objects or environments no matter you are artists, designers or hobbyists.\n\n\nOne of Seeed Studio\u2019s motto is \u201cGrow the Difference\u201d, which has now become part of the culture of the company. This is not just reflected from what we are doing in popularizing open source culture, but also from our products. Ever since the company funded, we are continuously creating our own open platform to differentiate from the existing one.\n\n\nHere at  Seeed, you can find not only Arduino boardssuch such as Arduino Nano and Arduino Mega, but also many boards that drived fom Arduino such as Seeeduino, a joint effort by Seeed Studio and Arduino. Seeeduino is compatible with Arduino while has more powerful functions and lower price. To start with, you can try the latest version Seeeduino V4.2 or Seeeduino Mega that corresponding to Arduino Mega.\n\n\nProduct  List\n\uf0c1\n\n\n\n\nHere is the list of the Seeeduino Boards you can find in the Seeed WiKi. The list will constantly updated.\n\n\n\n\n2.8\n TFT Touch Shield v2.0\n\n\n4WD Driver Platform V1.0\n\n\nBLE (dual) Bee v1.0\n\n\nBase Shield V2\n\n\nBattery Detector with Polymer Lithium Ion 1050mAh 3.7V\n\n\nBattery Detector with Polymer Lithium Ion 5100mAh 3.8V\n\n\nBluetooth Bee v2.0\n\n\nBluetooth Shield V2.0\n\n\nCAN-BUS Shield V1.2\n\n\nCamera Shield\n\n\nEL Shield\n\n\nEnergy Shield\n\n\nGPRS Shield V1.0\n\n\nGalileo Case\n\n\nGrove - Mega Shield\n\n\nGrove - Starter Kit Plus\n\n\nGrove - Starter Kit v3\n\n\nGrove Base BoosterPack\n\n\nGrove Speech Recognizer Kit for Arduino\n\n\nHercules Dual 15A 6-20V Motor Controller\n\n\nLipo Rider Pro\n\n\nLipo Rider V1.3\n\n\nMbed Shield\n\n\nMesh Bee\n\n\nMotor Shield V2.0\n\n\nMusic Shield V2.2\n\n\nNFC Shield V2.0\n\n\nProtoshield Kit for Arduino\n\n\nRFbee V1.1 - Wireless Arduino compatible node\n\n\nRS232 Shield\n\n\nRainbow Cube kit - RGB 4\n4\n4 (Rainbowduino Compatible)\n\n\nRainbowduino\n\n\nRainbowduino LED driver platform - ATmega328\n\n\nRainbowduino v3.0\n\n\nRelay Shield v3.0\n\n\nSD Card shield V4.0\n\n\nSeeed BLE Shield v1\n\n\nSeeeduino Cloud\n\n\nSeeeduino Cloud and Grove IoT Starter Kit Powered by AWS\n\n\nSeeeduino Ethernet\n\n\nSeeeduino GPRS\n\n\nSeeeduino Lite\n\n\nSeeeduino LoRaWAN\n\n\nSeeeduino Lotus\n\n\nSeeeduino Mega\n\n\nSeeeduino Mega Protoshield Kit\n\n\nSeeeduino Stalker V3 - Waterproof Solar Kit\n\n\nSeeeduino Stalker V3.1\n\n\nSeeeduino Stalker v3 enclosure\n\n\nSeeeduino v4.2\n\n\nShield Bot V1.2\n\n\nSkeleton Box\n\n\nSkeleton Box (10x7,10x10,17x10)\n\n\nSmall e-Paper Shield V2\n\n\nSolar Charger Shield V2.2\n\n\nUartSBee V4\n\n\nUartSBee v5\n\n\nW5500 Ethernet Shield v1.0\n\n\nWifi Bee v2.0\n\n\nWifi Shield (Fi250) V1.1\n\n\nWifi Shield V2.0\n\n\nXBee Shield V2.0", 
+            "title": "Arduino Introduction"
+        }, 
+        {
+            "location": "/Arduino/#product-list", 
+            "text": "Here is the list of the Seeeduino Boards you can find in the Seeed WiKi. The list will constantly updated.   2.8  TFT Touch Shield v2.0  4WD Driver Platform V1.0  BLE (dual) Bee v1.0  Base Shield V2  Battery Detector with Polymer Lithium Ion 1050mAh 3.7V  Battery Detector with Polymer Lithium Ion 5100mAh 3.8V  Bluetooth Bee v2.0  Bluetooth Shield V2.0  CAN-BUS Shield V1.2  Camera Shield  EL Shield  Energy Shield  GPRS Shield V1.0  Galileo Case  Grove - Mega Shield  Grove - Starter Kit Plus  Grove - Starter Kit v3  Grove Base BoosterPack  Grove Speech Recognizer Kit for Arduino  Hercules Dual 15A 6-20V Motor Controller  Lipo Rider Pro  Lipo Rider V1.3  Mbed Shield  Mesh Bee  Motor Shield V2.0  Music Shield V2.2  NFC Shield V2.0  Protoshield Kit for Arduino  RFbee V1.1 - Wireless Arduino compatible node  RS232 Shield  Rainbow Cube kit - RGB 4 4 4 (Rainbowduino Compatible)  Rainbowduino  Rainbowduino LED driver platform - ATmega328  Rainbowduino v3.0  Relay Shield v3.0  SD Card shield V4.0  Seeed BLE Shield v1  Seeeduino Cloud  Seeeduino Cloud and Grove IoT Starter Kit Powered by AWS  Seeeduino Ethernet  Seeeduino GPRS  Seeeduino Lite  Seeeduino LoRaWAN  Seeeduino Lotus  Seeeduino Mega  Seeeduino Mega Protoshield Kit  Seeeduino Stalker V3 - Waterproof Solar Kit  Seeeduino Stalker V3.1  Seeeduino Stalker v3 enclosure  Seeeduino v4.2  Shield Bot V1.2  Skeleton Box  Skeleton Box (10x7,10x10,17x10)  Small e-Paper Shield V2  Solar Charger Shield V2.2  UartSBee V4  UartSBee v5  W5500 Ethernet Shield v1.0  Wifi Bee v2.0  Wifi Shield (Fi250) V1.1  Wifi Shield V2.0  XBee Shield V2.0", 
+            "title": "Product  List"
+        }, 
+        {
+            "location": "/2.8inch_TFT_Touch_Shield_v2.0/", 
+            "text": "This is a multifunctional Arduino/Seeeduino/Arduino Mega compatible resistive touch screen. It can be used as display device or sketch pad.Compared with the previous version, 2.8``TFT Touch Shield V1.0, we replaced the screen driver with a more professional chip, ILI9341 driver, providing different pin-saving SPI communication without sacrificing the data transmitting speed. Due to the communication method change, programs developed for the original version need modifications before being transplanted to the new version. With a SD card module integrated also on this shield, this shield reserves great room for other expansions to your project.\n\n\n  \n\n\nFeatures\n\uf0c1\n\n\n\n\nBig screen for easy and comfortable experience\n\n\nBacklight controllable via programming\n\n\n65k rich colors display\n\n\nSPI pin-saving communication method\n\n\nFull screen touch active range\n\n\n\n\nSpecification\n\uf0c1\n\n\n\n\n\n\n\n\nItem\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nWorking Voltage\n\n\n5 V\n\n\n\n\n\n\nResolution\n\n\n320 x 240\n\n\n\n\n\n\nColors\n\n\n65k\n\n\n\n\n\n\n\n\nApplication Ideas\n\uf0c1\n\n\n\n\nGame\n\n\nSensor Hub\n\n\nHuman Machine Interface\n\n\nSmart House\n\n\n\n\nHere are some awesome projects for your reference. If you have project want to add to this chapter, please feel free to contact loovee@seeed.cc.\n\n\n\n\n\n\n\n\nArduino Phone\n\n\nFacebook Monitor\n\n\nInstrucatbles Monitor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMake it Now!\n\n\nMake it Now!\n\n\nMake it Now!\n\n\n\n\n\n\n\n\nPin Used\n\uf0c1\n\n\n\n\nNote\n\n\nYou can use the NOT USED pins to control the others module.\n\n\n\n\nDigital Pins\n\n\n\n\n\n\n\n\nPin Name\n\n\nFunction\n\n\n\n\n\n\n\n\n\n\nD0\n\n\nNOT USED\n\n\n\n\n\n\nD1\n\n\nNOT USED\n\n\n\n\n\n\nD2\n\n\nNOT USED\n\n\n\n\n\n\nD3\n\n\nNOT USED\n\n\n\n\n\n\nD4\n\n\nTF_CS\n\n\n\n\n\n\nD5\n\n\nTFT_CS\n\n\n\n\n\n\nD6\n\n\nTFT_DC\n\n\n\n\n\n\nD7\n\n\nBACKLIGHT(Selectable)\n\n\n\n\n\n\nD8\n\n\nNOT USED\n\n\n\n\n\n\nD9\n\n\nNOT USED\n\n\n\n\n\n\nD10\n\n\nNOT USED\n\n\n\n\n\n\nD11\n\n\nSPI_MOSI\n\n\n\n\n\n\nD12\n\n\nSPI_MISO\n\n\n\n\n\n\nD13\n\n\nSPI_SCK\n\n\n\n\n\n\n\n\nAnalog Pins\n\n\n\n\n\n\n\n\nPin Name\n\n\nFunction\n\n\n\n\n\n\n\n\n\n\nA0\n\n\nTOUCH PANEL\n\n\n\n\n\n\nA1\n\n\nTOUCH PANEL\n\n\n\n\n\n\nA2\n\n\nTOUCH PANEL\n\n\n\n\n\n\nA3\n\n\nTOUCH PANEL\n\n\n\n\n\n\nA4\n\n\nNOT USED\n\n\n\n\n\n\nA5\n\n\nNOT USED\n\n\n\n\n\n\n\n\nGetting Started\n\uf0c1\n\n\n\n\nNote\n\n\nThis getting started is based on Win10 and Arduino IDE 1.6.9\n\n\n\n\nHere we will show you how this display work, we need thing as below to start.\n\n\n\n\n\n\n\n\nSeeeduino V4\n\n\n2.8 TFT Touch Shield V2\n\n\nMicro USB Cable\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMore Details\n\n\nMore Details\n\n\nMore Details\n\n\n\n\n\n\n\n\nDownload Arduino Library\n\uf0c1\n\n\nThis library work for:\n\n\n\n\nArduino/Genuino UNO\n\n\nSeeeduino V3/4.0/4.2\n\n\nArduino/Genuino Mega\n\n\nArduino Leonardo\n\n\nSeeeduino Lite/Clio/Lotus\n\n\nLinkIt ONE(Touch panel don\nt work)\n\n\n\n\nClick on the below button to download the library and install it \n(HOW TO INSTALL AN ARDUINO LIBRARY)\n.\n\n\n\n\nThis library include few examples,\n\n\n\n\ndrawCircle\n\n\ndrawLines\n\n\ndrawNumber\n\n\ndrawRectangle\n\n\npaint\n\n\nshapes\n\n\ntext\n\n\ntftbmp\n\n\ntftbmp2\n\n\n\n\nWe use shapes example for this demo.\n\n\nConnection and Upload the code\n\uf0c1\n\n\nInsert the board to Seeeduino, and open your Arduino IDE. Click on \nFile \n Examples \n TFT_Touch_Shield_V2-master \n shapes\n to open the code.\n\n\nSelect the correct COM port and Boards(Seeeduino V4), upload the code to Seeeduino, then it\ns done. If you have any question about how to start the uploading, please put had on \nhere\n to get more details.\n\n\n\n\nBacklight\n\uf0c1\n\n\nThe backlight is default on always, if you want to control the backlight, you need to do some hack in the board. Please look at the back side of the board, there\ns a BACKLIGHT label, and one side named ON the other side named D7. We need to cut the wire at ON side and solder D7 side. As shown below.\n\n\n\n\nThen you can control the backlight via control D7.\n\n\nTo open backlight:\n     digitalWrite(7, HIGH);\n\n\nTo close backlight:\n    digitaWrite(7, LOW);\n\n\n\n\nWarning\n\n\nPlease be careful when use a box cutter and soldering iron.\n\n\n\n\nResources\n\uf0c1\n\n\n\n\nSchematic in Eagle File\n\n\nTFT Touch Shield Schematic.PDF\n\n\nLibrary at Github page\n\n\nGithub page of this document", 
+            "title": "2.8&#39;&#39; TFT Touch Shield v2.0"
+        }, 
+        {
+            "location": "/2.8inch_TFT_Touch_Shield_v2.0/#features", 
+            "text": "Big screen for easy and comfortable experience  Backlight controllable via programming  65k rich colors display  SPI pin-saving communication method  Full screen touch active range", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/2.8inch_TFT_Touch_Shield_v2.0/#specification", 
+            "text": "Item  Value      Working Voltage  5 V    Resolution  320 x 240    Colors  65k", 
+            "title": "Specification"
+        }, 
+        {
+            "location": "/2.8inch_TFT_Touch_Shield_v2.0/#application-ideas", 
+            "text": "Game  Sensor Hub  Human Machine Interface  Smart House   Here are some awesome projects for your reference. If you have project want to add to this chapter, please feel free to contact loovee@seeed.cc.     Arduino Phone  Facebook Monitor  Instrucatbles Monitor           Make it Now!  Make it Now!  Make it Now!", 
+            "title": "Application Ideas"
+        }, 
+        {
+            "location": "/2.8inch_TFT_Touch_Shield_v2.0/#pin-used", 
+            "text": "Note  You can use the NOT USED pins to control the others module.   Digital Pins     Pin Name  Function      D0  NOT USED    D1  NOT USED    D2  NOT USED    D3  NOT USED    D4  TF_CS    D5  TFT_CS    D6  TFT_DC    D7  BACKLIGHT(Selectable)    D8  NOT USED    D9  NOT USED    D10  NOT USED    D11  SPI_MOSI    D12  SPI_MISO    D13  SPI_SCK     Analog Pins     Pin Name  Function      A0  TOUCH PANEL    A1  TOUCH PANEL    A2  TOUCH PANEL    A3  TOUCH PANEL    A4  NOT USED    A5  NOT USED", 
+            "title": "Pin Used"
+        }, 
+        {
+            "location": "/2.8inch_TFT_Touch_Shield_v2.0/#getting-started", 
+            "text": "Note  This getting started is based on Win10 and Arduino IDE 1.6.9   Here we will show you how this display work, we need thing as below to start.     Seeeduino V4  2.8 TFT Touch Shield V2  Micro USB Cable           More Details  More Details  More Details", 
+            "title": "Getting Started"
+        }, 
+        {
+            "location": "/2.8inch_TFT_Touch_Shield_v2.0/#download-arduino-library", 
+            "text": "This library work for:   Arduino/Genuino UNO  Seeeduino V3/4.0/4.2  Arduino/Genuino Mega  Arduino Leonardo  Seeeduino Lite/Clio/Lotus  LinkIt ONE(Touch panel don t work)   Click on the below button to download the library and install it  (HOW TO INSTALL AN ARDUINO LIBRARY) .   This library include few examples,   drawCircle  drawLines  drawNumber  drawRectangle  paint  shapes  text  tftbmp  tftbmp2   We use shapes example for this demo.", 
+            "title": "Download Arduino Library"
+        }, 
+        {
+            "location": "/2.8inch_TFT_Touch_Shield_v2.0/#connection-and-upload-the-code", 
+            "text": "Insert the board to Seeeduino, and open your Arduino IDE. Click on  File   Examples   TFT_Touch_Shield_V2-master   shapes  to open the code.  Select the correct COM port and Boards(Seeeduino V4), upload the code to Seeeduino, then it s done. If you have any question about how to start the uploading, please put had on  here  to get more details.", 
+            "title": "Connection and Upload the code"
+        }, 
+        {
+            "location": "/2.8inch_TFT_Touch_Shield_v2.0/#backlight", 
+            "text": "The backlight is default on always, if you want to control the backlight, you need to do some hack in the board. Please look at the back side of the board, there s a BACKLIGHT label, and one side named ON the other side named D7. We need to cut the wire at ON side and solder D7 side. As shown below.   Then you can control the backlight via control D7.  To open backlight:\n     digitalWrite(7, HIGH);  To close backlight:\n    digitaWrite(7, LOW);   Warning  Please be careful when use a box cutter and soldering iron.", 
+            "title": "Backlight"
+        }, 
+        {
+            "location": "/2.8inch_TFT_Touch_Shield_v2.0/#resources", 
+            "text": "Schematic in Eagle File  TFT Touch Shield Schematic.PDF  Library at Github page  Github page of this document", 
+            "title": "Resources"
+        }
+	]
+}
