@@ -20,3 +20,7 @@ This is a FFT demo based on Arduino FHT library.
 ## 20170213
 
 This is a project based on python to deal with json file, and change some special values.
+
+## 20170626
+
+This is a demo that use two button and a speaker to play a song, In fact this is a game that not so interesting.
