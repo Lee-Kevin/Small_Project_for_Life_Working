@@ -29,3 +29,19 @@ This is a demo that use two button and a speaker to play a song, In fact this is
 
 This is the demo shows how to deal with the string to json format.
 
+## 20170801 - Using C to Operate SQLite Interface Demo
+This is the demo shows how to use C API to create a table for sql and update, insert, delete data from a database, in the demo I use the Sqlite3 as the database.
+
+Execuate:
+Take sqldelete.c for example:
+
+```shell
+gcc -o delete sqldelete.c -l sqlite3
+```
+Then you'll find there is a execuatable file named delete, and run the following code.
+```shell
+./delete
+```
+
+
+
