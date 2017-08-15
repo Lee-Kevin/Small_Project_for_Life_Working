@@ -29,7 +29,7 @@ This is a demo that use two button and a speaker to play a song, In fact this is
 
 This is the demo shows how to deal with the string to json format.
 
-## 20170801 - Using C to Operate SQLite Interface Demo
+## 20170808- Using C to Operate SQLite Interface Demo
 This is the demo shows how to use C API to create a table for sql and update, insert, delete data from a database, in the demo I use the Sqlite3 as the database.
 
 Execuate:
@@ -43,5 +43,25 @@ Then you'll find there is a execuatable file named delete, and run the following
 ./delete
 ```
 
+## 20170815 TCP/IP Server/Client
+
+This is a demo that shows how to use tcpdump to see the TCP protocol structure, use 3 termials to run tcpdump server and client.
+
+```shell
+sudo tcpdump -vvv -X -i lo tcp port 777
+```
+
+Run the following code to run the server.
+
+```shell
+./server 127.0.0.1
+```
+
+And run the code to run the client.
+
+```shell
+./client 127.0.0.1
+```
 
 
+to be continue...
