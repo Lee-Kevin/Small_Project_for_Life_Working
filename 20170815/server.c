@@ -19,6 +19,7 @@ int main(int argc, char *argv[])
     unsigned int port, listnum;
     
     /*建立socket*/
+	/* AF_INET socket 所代表的域为单机或异种机通信，sock_stream 代表连接的类型为稳定可靠的连接，发生错误返回-1 */
     if((sockfd = socket(AF_INET, SOCK_STREAM, 0)) == -1){
         perror("socket");
         exit(errno);
@@ -34,6 +35,24 @@ int main(int argc, char *argv[])
     else
         listnum = 3;
     /*设置服务器ip*/
+	/*
+	struct sockaddr_in { 
+		short int sin_family;
+		unsigned short int sin_port; 
+		struct in_addr sin_addr; 
+		unsigned char sin_zero[8];  // Same size as struct sockaddr
+	}; 
+		
+	sin_family指代协议族，在socket编程中只能是AF_INET
+	sin_port存储端口号（使用网络字节顺序）
+	sin_addr存储IP地址，使用in_addr这个数据结构
+	sin_zero是为了让sockaddr与sockaddr_in两个数据结构保持大小相同而保留的空字节。
+	s_addr按照网络字节顺序存储IP地址
+
+	inet_addr 
+	可以将网络地址进行转换，如：
+	mysock.sin_addr.s_addr=inet_addr("192.168.0.1");
+	*/
     bzero(&s_addr, sizeof(s_addr));
     s_addr.sin_family = AF_INET;
     s_addr.sin_port = htons(port);
@@ -42,6 +61,7 @@ int main(int argc, char *argv[])
     else
         s_addr.sin_addr.s_addr = INADDR_ANY;
     /*把地址和端口帮定到套接字上*/
+	/* sockfd 为socket的文件句柄，s_addr 为地址类型的指针 */
     if((bind(sockfd, (struct sockaddr*) &s_addr,sizeof(struct sockaddr))) == -1){
         perror("bind");
         exit(errno);
