@@ -8,7 +8,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-#define BUFLEN 10
+#define BUFLEN 20
 
 int main(int argc, char *argv[])
 {

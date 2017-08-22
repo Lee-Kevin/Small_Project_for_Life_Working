@@ -63,5 +63,19 @@ And run the code to run the client.
 ./client 127.0.0.1
 ```
 
+## 20170822 pthread app demo and mutex app 
+
+This is a demo that shows how to use pthread to create many threads to run, and use mutex to protect some shared variables.
+Run the following code to have a test:
+
+```shell
+ gcc -o app main.c -lpthread
+```
+Then run the app
+
+```shell
+./app 
+```
+You can have a try and see the result.
 
 to be continue...
