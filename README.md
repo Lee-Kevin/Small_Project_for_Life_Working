@@ -78,4 +78,8 @@ Then run the app
 ```
 You can have a try and see the result.
 
+## 20170831 A way to get the MAC Address
+
+This demo shows a way to get the machine mac address.
+
 to be continue...
