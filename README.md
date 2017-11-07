@@ -82,4 +82,8 @@ You can have a try and see the result.
 
 This demo shows a way to get the machine mac address.
 
-to be continue...
+## 20171107 Two ways for using MSG Queue
+
+This is a demo shows two ways for mqueue, System mqueue can be used for send messages to different threads while the Posix mqueue can
+be used for when the message need priority info. 
+
