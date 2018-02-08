@@ -87,3 +87,15 @@ This demo shows a way to get the machine mac address.
 This is a demo shows two ways for mqueue, System mqueue can be used for send messages to different threads while the Posix mqueue can
 be used for when the message need priority info. 
 
+## 20180208 A C list demo
+
+This is a demo shows how to use c to achive list function, you can change the data structure in the list.h file,
+In this demo, you can pop node or append node to the list. GDB is a good tool to see the debug process.
+
+Just run 
+```
+make
+```
+
+
+
