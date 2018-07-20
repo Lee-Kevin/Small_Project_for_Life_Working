@@ -152,3 +152,35 @@ int main(void) {
 
 ```
 
+## 20180720ringbuffer
+
+This is a demo shows how to use ring buffer in C , in default the buffer is 32KB.
+
+```
+#include "ringbuffer.h"
+
+#define __BIG_DEBUG__
+
+#ifdef __BIG_DEBUG__
+#define debug_printf(fmt, ...)  \
+    do { \
+        printf("[Trace]: "); \
+        printf(fmt, ##__VA_ARGS__); \
+        printf("%s", "\r\n"); \
+    } while(0)
+#else
+#define debug_printf(fmt, ...)
+#endif
+
+#define BUFFER_POOL_SIZE (32*5)
+uint8_t buffer_pool[BUFFER_POOL_SIZE];
+
+struct ring_buffer buffer;
+
+uint8_t thread_buffer_put  =  1;
+void main(){
+	debug_printf("hello world \n");
+	
+	ring_buffer_init(&buffer,buffer_pool,BUFFER_POOL_SIZE);
+	....
+```
