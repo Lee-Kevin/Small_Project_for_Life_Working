@@ -197,4 +197,10 @@ This is a demo shows how to use thread poll.
 
 This is a demo shows how to use the ntp server.
 
+## 20210204_shell_test
 
+This is demo shows how to use shell
+
+## auto_imi_db_bin
+
+This is use automake to make bin and use iniparse lib
