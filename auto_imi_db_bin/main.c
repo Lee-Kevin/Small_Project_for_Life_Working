@@ -6,8 +6,8 @@
 */
 /*--------------------------------------------------------------------------*/
 #include <stdio.h>
-#include "iniparser.h"
-#include "imi_db_mi.h"
+#include "src/iniparser.h"
+#include "src/imi_db_mi.h"
 db_info_keys_t db_keys[] = 
 {
 	{KEY_ROM_VENDOR,				NULL,					"vendor information"},
